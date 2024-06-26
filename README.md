@@ -21,8 +21,11 @@ Avant de commencer, assurez-vous d'avoir les logiciels et bibliothèques suivant
 - Python 3.x
 - Pandas
 - NumPy
+- Excel
+- SQL server Management Studio
 - SQL Server Integration Services (SSIS)
 - Power BI Desktop
+  
 
 ## Video
 Vous pouvez télécharger et regarder la vidéo de présentation du rapport [ici](Dashboard.mp4).
